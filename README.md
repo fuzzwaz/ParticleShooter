@@ -1,7 +1,6 @@
 # ParticleShooter
-A Classic "Shmup" game made in my own Fuzzy 2D game engine
+A Classic "Shmup" game made in my own Fuzzy2D game engine
 
-A fun side project of trying to make a classic "Shoot-em-up" game using my own Fuzzy2D Game Engine.
 
 All code and visual art is my own.
 
