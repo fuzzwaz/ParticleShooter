@@ -1,0 +1,231 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project '..\Pokemon\Pokemon.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParticleShooterTests.vcxproj, PokemonTests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  CommonTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(26,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(26,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(19,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(19,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(19,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(21,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(26,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(26,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(26,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(28,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(33,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(33,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(33,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(35,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(40,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(40,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(40,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(42,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(47,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(47,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(47,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(49,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(54,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(54,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(54,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(56,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(61,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(61,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(61,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(63,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(68,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(68,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(68,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(70,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(75,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(75,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(75,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(77,19): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(81,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(81,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(81,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(83,20): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(88,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(88,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(88,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(90,20): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(95,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(95,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(95,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(97,20): error C2065: 'test': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(102,4): error C2065: 'Rectangle': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(102,14): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(102,14): error C3861: 'test': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(104,19): error C2065: 'test': undeclared identifier
+  SeparatingAxisCollisionTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(30,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(30,32): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(34,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(34,10): error C2146: syntax error: missing ';' before identifier 'CalculateCollisionPoint'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(35,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(35,2): error C2086: 'int SeparatingAxisCollision::Vector2': redefinition
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(34): message : see declaration of 'SeparatingAxisCollision::Vector2'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(35,10): error C2146: syntax error: missing ';' before identifier 'CalculateCircleCollisionPoint'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(37,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(37,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(38,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(38,49): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(40,109): error C2923: 'std::vector': 'SeparatingAxisCollision::Vector2' is not a valid template type argument for parameter '_Ty'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(34): message : see declaration of 'SeparatingAxisCollision::Vector2'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(40,109): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(27,10): error C2146: syntax error: missing ';' before identifier 'axis'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(27,10): error C3861: 'axis': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(32,4): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(33,4): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(38,4): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(39,4): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(43,63): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(44,63): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(58,10): error C2146: syntax error: missing ';' before identifier 'distance'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(58,10): error C2065: 'distance': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(60,6): error C2065: 'distance': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(68,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(68,56): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(71,21): error C2065: 'polygonB': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(72,19): error C2065: 'polygonB': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(74,10): error C2146: syntax error: missing ';' before identifier 'axis'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(74,10): error C3861: 'axis': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(75,21): error C3536: 'perpsBeginB': cannot be used before it is initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(75,33): error C3536: 'perpsEndB': cannot be used before it is initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(77,3): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(78,3): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(80,63): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(80,69): error C2065: 'point': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(81,63): error C2065: 'axis': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(81,69): error C2065: 'polygonB': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(95,34): error C2039: 'CalculateCircleCollisionPoint': is not a member of 'SeparatingAxisCollision'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(28): message : see declaration of 'SeparatingAxisCollision'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(100,45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(114,34): error C2039: 'CalculateCollisionPoint': is not a member of 'SeparatingAxisCollision'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(28): message : see declaration of 'SeparatingAxisCollision'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(120,2): error C3861: 'CalculateCollidingVertices': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(121,2): error C3861: 'CalculateCollidingVertices': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(130,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(147,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(147,73): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(152,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(152,39): error C2082: redefinition of formal parameter 'Vector2'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(152,16): error C2146: syntax error: missing ';' before identifier 'relativePositionOffset'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(152,16): error C2065: 'relativePositionOffset': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(152,41): error C2065: 'polygon': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(153,24): error C2065: 'polygon': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(153,13): error C2737: 'vertices': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(154,15): error C2146: syntax error: missing ';' before identifier 'vertex'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(154,22): error C2143: syntax error: missing ';' before ':'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(154,22): error C2143: syntax error: missing ')' before ':'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(154,22): error C2059: syntax error: ':'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(154,39): error C2059: syntax error: ')'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(155,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(157,3): error C2065: 'vertex': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(157,15): error C2065: 'relativePositionOffset': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(158,3): error C2065: 'vertex': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(158,15): error C2065: 'relativePositionOffset': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(160,28): error C2065: 'vertex': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(160,46): error C2065: 'projectionVector': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(160,15): error C2737: 'dotProduct': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(177,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(177,73): error C2143: syntax error: missing ',' before '&'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(178,1): error C2084: function 'Extents SeparatingAxisCollision::CalculateMinMixProjection(const int)' already has a body
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(147): message : see previous definition of 'CalculateMinMixProjection'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(177,34): error C2084: function 'Extents SeparatingAxisCollision::CalculateMinMixProjection(const int)' already has a body
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(147): message : see previous definition of 'CalculateMinMixProjection'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(182,27): error C2065: 'point': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(182,44): error C2065: 'projectionVector': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(182,14): error C2737: 'dotProduct': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(198,128): error C2923: 'std::vector': 'SeparatingAxisCollision::Vector2' is not a valid template type argument for parameter '_Ty'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.h(34): message : see declaration of 'SeparatingAxisCollision::Vector2'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(198,128): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(443): message : see declaration of 'std::vector'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(203,11): error C2146: syntax error: missing ';' before identifier 'point'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(203,11): error C3861: 'point': identifier not found
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(204,19): error C2065: 'point': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(206,33): error C2065: 'point': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(66,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(72,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(177,13): error C3646: 'originBounds': unknown override specifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(177,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(21,33): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(21,1): error C2660: 'std::shared_ptr<Collider>::reset': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(1671,10): message : see declaration of 'std::shared_ptr<Collider>::reset'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(22,15): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(24,33): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(24,1): error C2660: 'std::shared_ptr<Collider>::reset': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(1671,10): message : see declaration of 'std::shared_ptr<Collider>::reset'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(25,15): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(29,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(30,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(32,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(32,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(32,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(38,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(39,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(41,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(41,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(41,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(47,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(48,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(50,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(50,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(50,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(56,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(57,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(59,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(59,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(59,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(65,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(66,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(68,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(68,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(68,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(74,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(75,14): error C2039: 'AddVertexPoint': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(76,14): error C2039: 'RecalculatePerpendicularVectors': is not a member of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Collider.h(25): message : see declaration of 'Collider'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(78,1): error C2665: 'SeparatingAxisCollision::IsColliding': none of the 2 overloads could convert all the argument types
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(17,31): message : could be 'bool SeparatingAxisCollision::IsColliding(const ColliderInterface *,const ColliderInterface *)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(78,1): message : while trying to match the argument list '(std::shared_ptr<Collider>, std::shared_ptr<Collider>)'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(78,15): error C2737: 'IsColliding': const object must be initialized
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(84,52): error C2065: 'originBounds': undeclared identifier
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(84,1): fatal error C1003: error count exceeds 100; stopping compilation
+  TransformTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(45,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(66,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(66,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(104,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(105,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(123,20): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(59,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(83,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(107,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(131,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(155,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(167,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(176,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(198,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(220,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(242,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...

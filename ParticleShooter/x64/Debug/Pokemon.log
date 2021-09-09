@@ -1,0 +1,88 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Pokemon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AnimatedSingleTextureGraphicsController.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GameManager.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Player.h(21): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+  GameObject.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ItemSpawner.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Laser.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Laser.cpp(45,65): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,const GraphicAssetInfo&,double>(_Ty &,const GraphicAssetInfo &,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=GraphicObject
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
+          with
+          [
+              _Ty=GraphicObject
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
+          with
+          [
+              _Ty=GraphicObject
+          ]
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Laser.cpp(14): message : see reference to function template instantiation 'std::shared_ptr<GraphicObject> std::make_shared<GraphicObject,const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
+  Round.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+  main.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(10,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Player.h(21): message : see declaration of 'InputState'
+  Generating Code...
+  Pokemon.vcxproj -> C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\x64\Debug\ParticleShooter.exe
