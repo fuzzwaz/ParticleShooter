@@ -175,11 +175,6 @@
   <ItemGroup>
     <ClInclude Include="pch.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Pokemon\Pokemon.vcxproj">
-      <Project>{54b840ac-df26-4e6f-a1f4-d5afb2b73979}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
