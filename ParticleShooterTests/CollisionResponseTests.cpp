@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../ParticleShooter/RigidBody.h"
-#include "../ParticleShooter/CollisionResponse.h"
+#include "../ParticleShooter/Physics/RigidBody.h"
+#include "../ParticleShooter/Physics/CollisionResponse.h"
 #include "../ParticleShooter/CollisionResponse.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

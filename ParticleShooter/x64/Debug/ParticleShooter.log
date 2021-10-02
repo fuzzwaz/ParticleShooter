@@ -1,40 +1,40 @@
 ﻿  AnimatedSingleTextureGraphicsController.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Animation.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Animator.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animator.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   CollisionResponse.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\CollisionResponse.cpp(19,101): warning C4227: anachronism used: qualifiers on reference are ignored
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\CollisionResponse.cpp(19,140): warning C4227: anachronism used: qualifiers on reference are ignored
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\CollisionResponse.cpp(39,98): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
   Common.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.cpp(28,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.cpp(28,17): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
   Enemy.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyDamagedState.h(33,26): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyDamagedState.h(33,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
   EnemyBasicShot.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
           [
@@ -57,30 +57,30 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           ]
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyBasicShot.cpp(17): message : see reference to function template instantiation 'std::shared_ptr<GraphicObject> std::make_shared<GraphicObject,const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
   EnemyDamagedState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyDamagedState.h(33,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyDamagedState.h(33,26): warning C4305: 'initializing': truncation from 'double' to 'float'
   EnemyManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SquareNormalState.h(53,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,77): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\SquareNormalState.h(53,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,77): warning C4305: 'initializing': truncation from 'double' to 'const float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyManager.cpp(48,31): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
@@ -125,97 +125,97 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           ]
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyManager.cpp(116): message : see reference to function template instantiation 'std::shared_ptr<TriangleExplosion> std::make_shared<TriangleExplosion,double>(double &&)' being compiled
   EnemyNormalState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
   EnemySpawningState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   ErrorHandler.cpp
   GameManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(21): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UI\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(21): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
   GameObject.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   GameObjectRegistryLocator.cpp
   GraphicObject.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   HexagonNormalState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HexagonNormalState.cpp(66,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HexagonNormalState.cpp(66,37): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HexagonNormalState.cpp(67,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HexagonNormalState.cpp(67,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
   HexBeam.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HexBeam.cpp(18,44): warning C4305: 'argument': truncation from 'double' to 'const float'
   Item.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
   ItemSpawner.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   Generating Code...
   Compiling...
   Laser.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Laser.cpp(45,65): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
@@ -239,44 +239,44 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           ]
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Laser.cpp(14): message : see reference to function template instantiation 'std::shared_ptr<GraphicObject> std::make_shared<GraphicObject,const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
   Level.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   LevelManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   MultiTextureGraphicsController.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   NullRigidBody.cpp
   ObserverController.cpp
   Collider.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   ParticleShooterLevel.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   ParticleShooterLevel01.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterLevel01.cpp(108,87): warning C4305: 'argument': truncation from 'double' to 'const float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterLevel01.cpp(109,90): warning C4305: 'argument': truncation from 'double' to 'const float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterLevel01.cpp(110,90): warning C4305: 'argument': truncation from 'double' to 'const float'
@@ -288,39 +288,39 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterL
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterLevel01.cpp(163,46): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ParticleShooterLevel01.cpp(163,33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
   PCInputController.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PCInputController.cpp(101,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PCInputController.cpp(102,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   PlayerBounceShot.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
   PlayerStateBounce.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
   PlayerStateDamaged.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
   PlayerStateLaser.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
   Polygon.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(71,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(71,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(75,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
@@ -328,14 +328,14 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(76,1
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(112,22): warning C4305: 'initializing': truncation from 'int' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Polygon.cpp(112,38): warning C4305: 'initializing': truncation from 'int' to 'float'
   Projectile.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Projectile.cpp(29,48): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
@@ -359,22 +359,22 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           ]
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Projectile.cpp(25): message : see reference to function template instantiation 'std::shared_ptr<GraphicObject> std::make_shared<GraphicObject,const GraphicAssetInfo&,int>(const GraphicAssetInfo &,int &&)' being compiled
   ProjectileShooter.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Rectangle.cpp
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Rectangle.cpp(12,50): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Rectangle.cpp(12,22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
   RhombusNormalState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalState.cpp(39,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalState.cpp(63,67): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalState.cpp(114,74): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
@@ -382,46 +382,46 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalSta
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalState.cpp(152,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RhombusNormalState.cpp(153,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Round.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   Generating Code...
   Compiling...
   SeparatingAxisCollision.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SeparatingAxisCollision.cpp(100,45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SeparatingAxisCollision.cpp(130,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const float', possible loss of data
   Sound.cpp
   SoundManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(19,117): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(20,111): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(21,113): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(25,122): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(28,123): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(29,122): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(30,125): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(31,131): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(32,129): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(33,127): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(36,119): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(38,106): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundAssetResources.h(39,108): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(19,117): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(20,111): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(21,113): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(25,122): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(28,123): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(29,122): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(30,125): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(31,131): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(32,129): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(33,127): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(36,119): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(38,106): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\SoundAssetResources.h(39,108): warning C4305: 'argument': truncation from 'double' to 'const float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundManager.cpp(65,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SoundManager.cpp(69,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   SquareNormalState.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SquareNormalState.h(53,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\SquareNormalState.h(53,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
           [
@@ -445,7 +445,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SquareNormalState.cpp(10): message : see reference to function template instantiation 'std::shared_ptr<GraphicObject> std::make_shared<GraphicObject,const GraphicAssetInfo&,double>(const GraphicAssetInfo &,double &&)' being compiled
   TimedDestructionController.cpp
   Transform.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(46,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(66,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
@@ -454,54 +454,54 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(10
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(105,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Transform.cpp(123,20): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
   InputManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   CollisionManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   main.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(21): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UI\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(21): message : see declaration of 'InputState'
   Player.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(35,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderResources.h(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.cpp(82,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.cpp(82,25): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
   PlayerStateNormal.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerStateDamaged.h(18,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(20,1): warning C4099: 'ColliderBaton': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderBaton.h(19): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\Player.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
   Renderer.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(145,63): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(145,51): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(151,98): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
@@ -515,11 +515,11 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(160
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(206,40): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Renderer.cpp(207,40): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
   RigidBody.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RigidBody.cpp(66,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\RigidBody.cpp(72,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   ScrollingCamera.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ScrollingCamera.cpp(36,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ScrollingCamera.cpp(36,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ScrollingCamera.cpp(54,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
@@ -534,7 +534,7 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ScrollingCamera.
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ScrollingCamera.cpp(80,24): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
   PropertyController.cpp
   Texture.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Texture.cpp(44,77): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Texture.cpp(44,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Texture.cpp(45,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
@@ -549,26 +549,26 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Texture.cpp(74,1
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Timer.cpp(25,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Transition.cpp
   TriangleExplosion.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\TriangleExplosion.h(32,77): warning C4305: 'initializing': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\TriangleExplosion.h(32,77): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
   UserInterfaceManager.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\InputState.h(23): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\HealthBar.h(30,59): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\SpecialBar.h(31,59): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\PlayerState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Resources\GraphicAssetResources.h(32,133): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Input\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(18,20): warning C4099: 'ColliderBaton': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Physics\ColliderInterface.h(15): message : see declaration of 'ColliderBaton'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(14,1): warning C4099: 'PlayerInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerInfo.h(13): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UI\HealthBar.h(30,59): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UI\SpecialBar.h(31,59): warning C4244: 'argument': conversion from 'const int' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UI\UserInterfaceManager.h(17,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Player\PlayerState.h(22): message : see declaration of 'InputState'
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
           with
           [
@@ -593,14 +593,14 @@ C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\UserInterfaceMan
   Generating Code...
   Compiling...
   Vector2.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Vector2.cpp(60,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Wave.cpp
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(22): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
-C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\EnemyState.h(20): message : see declaration of 'PlayerInfo'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(19,17): warning C4099: 'InputState': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(22): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Core\GameObject.h(20,17): warning C4099: 'PlayerInfo': type name first seen using 'struct' now seen using 'class'
+C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\Enemies\EnemyState.h(20): message : see declaration of 'PlayerInfo'
   Generating Code...
   ParticleShooter.vcxproj -> C:\Users\fuzzw\Documents\GitHub\ParticleShooter\ParticleShooter\x64\Debug\ParticleShooter.exe

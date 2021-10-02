@@ -1,9 +1,9 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../ParticleShooter/Vector2.h"
-#include "../ParticleShooter/RigidBody.h"
-#include "../ParticleShooter/Collider.h"
-#include "../ParticleShooter/CollisionManager.h"
+#include "../ParticleShooter/Common/Vector2.h"
+#include "../ParticleShooter/Physics/RigidBody.h"
+#include "../ParticleShooter/Physics/Collider.h"
+#include "../ParticleShooter/Physics/CollisionManager.h"
 #include "../ParticleShooter/CollisionManager.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

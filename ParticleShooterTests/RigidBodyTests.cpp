@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../ParticleShooter/RigidBody.h"
-#include "../ParticleShooter/Common.h"
+#include "../ParticleShooter/Physics/RigidBody.h"
+#include "../ParticleShooter/Common/Common.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 

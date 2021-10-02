@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../ParticleShooter/Polygon.h"
-#include "../ParticleShooter/Common.h"
+#include "../ParticleShooter/Physics/Polygon.h"
+#include "../ParticleShooter/Common/Common.h"
 
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
